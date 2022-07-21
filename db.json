@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "id": "1658129659558",
+      "studname": "Mubashir",
+      "email": "alfaintechnologies@gmail.com"
+    },
+    {
+      "id": "1658129666581",
+      "studname": "Nabeel",
+      "email": "nabeel@example.com"
+    },
+    {
+      "id": "1658129674228",
+      "studname": "UsmanTairq",
+      "email": "usman@alfain.com"
+    },
+    {
+      "id": "1658129682388",
+      "studname": "abdullah",
+      "email": "alfaintechnologies@gmail.com"
+    },
+    {
+      "id": "1658129710986",
+      "studname": "Sajid",
+      "email": "sajid@example.com"
+    }
+  ]
+}

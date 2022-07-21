@@ -1,0 +1,31 @@
+.student {
+  display: flex;
+  justify-content: space-between;
+  margin-block: 1rem;
+  border-bottom: 1px solid var(--text-color);
+}
+.email {
+  font-size: 1.3rem;
+  text-transform: none;
+}
+
+.btn-contaier {
+  display: inline-block;
+}
+
+.btn-link {
+  padding: 8px 10px;
+}
+.btn-transparent {
+  background: none;
+}
+.btn-transparent:hover {
+  background: var(--primary-color);
+}
+.btn-success {
+  color: var(--text-color);
+}
+
+.btn-danger {
+  color: var(--danger-color);
+}

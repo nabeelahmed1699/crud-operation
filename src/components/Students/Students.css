@@ -1,0 +1,18 @@
+.section {
+  padding: 4rem;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 5px;
+  font-size: 1.5rem;
+  text-transform: capitalize;
+  background-color: var(--primary-color);
+  color: var(--text-color);
+}
+.students-heading {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 2rem;
+}
+.student--section {
+  max-height: 50rem;
+  overflow-y: scroll;
+}
